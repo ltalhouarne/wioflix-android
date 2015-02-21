@@ -1,4 +1,4 @@
-Repository for the Wioflix application on the goole play store
+Repository for the Wioflix application on the google play store
 
 [Wioflix Android Application](https://play.google.com/store/apps/details?id=com.wionflix.Wioflix)
 
